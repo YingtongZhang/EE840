@@ -1,0 +1,22 @@
+file_info; /Users/yingtong/Codes/EE840/Animation/params_LZ/file_info.txt
+xy_txt; /Users/yingtong/Codes/EE840/Animation/params_LZ/xy_txt.txt
+year_min; 2012
+year_max; 2020
+font_path; /Users/yingtong/Codes/EE840/Animation/font/Carlito/carlito.regular.ttf
+rows; 216
+cols; 384
+fps; 30
+fade_time; 1
+bands; r:1, g:1, b:1
+m_per_frame; 45
+rgb_sep; \t
+out_dir; /Volumes/GoogleDrive/My Drive/PhD/Courses/TF/Output/frames
+
+
+pt_time; 6
+pt_frequ; 7
+max_extent_size; 400
+extent_position; upper left
+extent_rotation; 0
+movie_basename; China_lcmap_LZ.mp4
+n_jobs; 20

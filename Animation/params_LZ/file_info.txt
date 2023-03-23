@@ -1,0 +1,2 @@
+search_str	search_dir	file_extension	rgb_path
+LZ_LCMAP	/Volumes/GoogleDrive/My Drive/PhD/Courses/TF/classProject/image	tif	/Users/yingtong/Codes/EE840/Animation/params_LZ/rgb_discrete.txt

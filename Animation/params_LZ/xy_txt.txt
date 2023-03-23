@@ -1,0 +1,5 @@
+x_start	y_start	x_end	y_end	year_start	year_end	band_start	zoom	height_scale	speed_scale	acceleration	search_string	replace_method	nframes	scenes_per_sec	by_file	hillshade
+380800	4045236	380800	4045236	2012	2020	1	start	1.2	1	none	LZ_LCMAP	s	270	2	1	0
+380800	4045236	380800	4045236	2012	2020	1	none	0	1	none	LZ_LCMAP	s	540	1	1	0
+380800	4045236	381600	4058000	2012	2020	1	none	0	1	none	LZ_LCMAP	s	540	1	1	0
+381600	4058000	381600	4058000	2012	2020	1	none	0	1	none	LZ_LCMAP	s	540	1	1	0
