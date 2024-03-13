@@ -1,0 +1,42 @@
+name: animation
+channels:
+    - conda-forge
+dependencies:
+    # Base
+    - pip
+    - python>=3.7
+    - numpy
+    - scipy
+    - opencv
+    # Statistics
+    - scikit-learn
+    - scikit-image
+    - pandas
+    - geopandas
+    # GDAL AND IO
+    - rasterio>=1.0*
+    - fiona
+    - shapely
+    - pyproj
+    - gdal
+    - xarray>=0.10.7
+    # Plotting
+    - matplotlib
+    - bqplot
+    - moviepy
+    # Interactive
+    - nodejs
+    - jupyter
+    - jupyterlab
+    - notebook
+    - ipython
+    - ipyleaflet
+    - ipywidgets
+    - flask
+    - flask-sqlalchemy
+    - gspread
+    - pip:
+        - appmode
+        - google-api-python-client
+        - earthengine-api
+        - lcmap-pyccd
